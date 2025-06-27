@@ -34,10 +34,26 @@ Works immediately without credentials - perfect for demonstrations with 5 profes
 
 ## Technical Stack
 
-- **Frontend**: Streamlit with custom CSS
-- **Backend**: Google Calendar API
-- **AI**: Natural language processing
-- **Authentication**: OAuth2 flow
-- **Deployment**: Streamlit Cloud
+🧠 AI & Agent Framework
+LangGraph: Agent orchestration and memory management for complex workflows.
+
+Natural Language Processing (NLP): For intelligent understanding and responses in user chat.
+
+🔙 Backend
+FastAPI: High-performance backend framework in Python for handling API endpoints.
+
+Google Calendar API: Integrated for scheduling and calendar event management.
+
+OAuth2: Secure user authentication and authorization flow.
+
+💬 Frontend
+Streamlit: Lightweight and interactive chat-based UI.
+
+Custom CSS: Enhanced styling and UI polish to align with a professional product design.
+
+🚀 Deployment
+Streamlit Cloud: Fast and hassle-free cloud deployment, ideal for demos and portfolio showcasing.
+
+
 
 Built for professional portfolio presentation and recruiter demonstrations.
