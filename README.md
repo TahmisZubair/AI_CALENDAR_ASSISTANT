@@ -35,24 +35,23 @@ Works immediately without credentials - perfect for demonstrations with 5 profes
 ## Technical Stack
 
 🧠 AI & Agent Framework
-LangGraph: Agent orchestration and memory management for complex workflows.
-
-Natural Language Processing (NLP): For intelligent understanding and responses in user chat.
+ -LangGraph: Agent orchestration and memory management for complex workflows.
+ -Natural Language Processing (NLP): For intelligent understanding and responses in user chat.
 
 🔙 Backend
-FastAPI: High-performance backend framework in Python for handling API endpoints.
+ -FastAPI: High-performance backend framework in Python for handling API endpoints.
 
-Google Calendar API: Integrated for scheduling and calendar event management.
+ -Google Calendar API: Integrated for scheduling and calendar event management.
 
-OAuth2: Secure user authentication and authorization flow.
+ -OAuth2: Secure user authentication and authorization flow.
 
 💬 Frontend
-Streamlit: Lightweight and interactive chat-based UI.
+ -Streamlit: Lightweight and interactive chat-based UI.
 
-Custom CSS: Enhanced styling and UI polish to align with a professional product design.
+-Custom CSS: Enhanced styling and UI polish to align with a professional product design.
 
 🚀 Deployment
-Streamlit Cloud: Fast and hassle-free cloud deployment, ideal for demos and portfolio showcasing.
+-Streamlit Cloud: Fast and hassle-free cloud deployment, ideal for demos and portfolio showcasing.
 
 
 
